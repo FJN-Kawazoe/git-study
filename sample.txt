@@ -1,2 +1,3 @@
 add in github remote repository
 add in visual studio code
+add in visual studio code after ssh-add
